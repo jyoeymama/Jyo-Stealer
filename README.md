@@ -16,12 +16,8 @@ Ensure you have Bash installed (pre-installed on most Linux systems).
 Make the script executable:
 
 bash
-Copy
-Edit
 chmod +x jyo_stealer.sh
 Run the script:
 
 bash
-Copy
-Edit
 ./jyo_stealer.sh
