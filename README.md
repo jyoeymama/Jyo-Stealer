@@ -15,7 +15,7 @@ Ensure you have Bash installed (pre-installed on most Linux systems).
 
 First, Run this command:
 
-git clone github.com/jyoeymama/Jyo-Stealer/
+git clone https://github.com/jyoeymama/Jyo-Stealer.git
 
 Make the script executable:
 
