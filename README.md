@@ -17,6 +17,7 @@ Make the script executable:
 
 bash
 chmod +x jyo_stealer.sh
+
 Run the script:
 
 bash
